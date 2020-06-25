@@ -1,3 +1,6 @@
 # 0625
-MAINTAINER: leesh7248@gmail.com
-ADDRESS: https://github.com/lsh7248/0625
+
+```
+1. docker build --tag leesh7248/ubuntu_nginx .
+2. docker push leesh7248/ubuntu_nginx
+```
